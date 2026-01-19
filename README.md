@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Soy un Ingeniero Civil Matemático recién egresado de la Universidad de Valparaíso, con una especialización y gran interés en Ciencia de Datos, Machine Learning y Finanzas Cuantitativas.<br><br>Me apasiona utilizar la modelación matemática, la programación y el análisis de datos para construir soluciones que resuelvan problemas complejos del mundo real. Busco activamente una oportunidad para crecer profesionalmente en áreas como Data Science en banca, análisis financiero o finanzas cuantitativas.
+Soy un estudiante de Ingeniería Civil Matemática de la Universidad de Valparaíso.<br><br>Me apasiona utilizar la modelación matemática, la programación y el análisis de datos para construir soluciones que resuelvan problemas complejos del mundo real. Busco activamente una oportunidad para crecer profesionalmente en áreas como Data Science en banca, análisis financiero o finanzas cuantitativas.
 
 
 ## 🌐 Redes:
