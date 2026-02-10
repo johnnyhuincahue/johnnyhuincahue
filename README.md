@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Soy un estudiante de Ingeniería Civil Matemática de la Universidad de Valparaíso.<br><br>Me apasiona utilizar la modelación matemática, la programación y el análisis de datos para construir soluciones que resuelvan problemas complejos del mundo real. Busco activamente una oportunidad para crecer profesionalmente en áreas como Data Science en banca, análisis financiero o finanzas cuantitativas.
+Soy Ingeniero Civil Matemático de la Universidad de Valparaíso.<br><br>Me apasiona utilizar la modelación matemática, la programación y el análisis de datos para construir soluciones que resuelvan problemas complejos del mundo real. Busco activamente una oportunidad para crecer profesionalmente en áreas como Data Science en banca, análisis financiero o finanzas cuantitativas.
 
 
 ## 🌐 Redes:
